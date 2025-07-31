@@ -1,0 +1,9 @@
+@media only screen and(max-width:480px) {
+    .box-light:hover {
+        /* height: 0px; */
+        height: auto;
+    }
+    .body{
+        height: 70vh;
+    }
+}
